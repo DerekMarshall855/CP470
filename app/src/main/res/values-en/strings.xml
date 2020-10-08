@@ -8,4 +8,8 @@
     <string name="switch_text">What does this do?</string>
     <string name="RB_text">RadioButton</string>
     <string name="CB_text">CheckBox</string>
+    <string name="cancel">cancel</string>
+    <string name="dialog_title">Return to Main?</string>
+    <string name="dialog_message">Select OK or CANCEL</string>
+    <string name="ok">ok</string>
 </resources>

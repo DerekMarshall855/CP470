@@ -8,4 +8,8 @@
     <string name="switch_text">Qu\'est-ce que cela fait?</string>
     <string name="RB_text">BoutonRadio</string>
     <string name="CB_text">Case a cocher</string>
+    <string name="cancel">annuler</string>
+    <string name="dialog_title">Retour à la page principale</string>
+    <string name="dialog_message">Sélectionnez d\'accord ou annuler</string>
+    <string name="ok">d\'accord</string>
 </resources>
