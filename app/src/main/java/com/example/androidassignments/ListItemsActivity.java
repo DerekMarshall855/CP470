@@ -62,6 +62,7 @@ public class ListItemsActivity extends AppCompatActivity {
     }
 
     public void checkFunction() {
+        final String response = getString(R.string.response);
         AlertDialog.Builder builder = new AlertDialog.Builder(ListItemsActivity.this);
         builder.setMessage(R.string.dialog_message)
                 .setTitle(R.string.dialog_title)
@@ -69,7 +70,7 @@ public class ListItemsActivity extends AppCompatActivity {
             @Override
             public void onClick(DialogInterface dialog, int which) {
                 Intent resultIntent = new Intent();
-                resultIntent.putExtra("Response", "Here is my response");
+                resultIntent.putExtra("Response", response);
                 setResult(Activity.RESULT_OK, resultIntent);
                 finish();
             }
@@ -82,13 +83,13 @@ public class ListItemsActivity extends AppCompatActivity {
     }
 
     public void switchToast(boolean isChecked){
-        CharSequence text;
+        int text;
         int duration;
         if (isChecked) {
-            text = "Switch is On";
+            text = R.string.on;
             duration = Toast.LENGTH_SHORT;
         } else {
-            text = "Switch is Off";
+            text = R.string.off;
             duration = Toast.LENGTH_LONG;
         }
         Toast toast = Toast.makeText(this, text, duration);
