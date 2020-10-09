@@ -12,4 +12,7 @@
     <string name="dialog_title">Retour à la page principale</string>
     <string name="dialog_message">Sélectionnez d\'accord ou annuler</string>
     <string name="ok">d\'accord</string>
+    <string name="response">Voici ma réponse</string>
+    <string name="on">Sur</string>
+    <string name="off">De</string>
 </resources>

@@ -12,4 +12,7 @@
     <string name="dialog_title">Return to Main?</string>
     <string name="dialog_message">Select OK or CANCEL</string>
     <string name="ok">ok</string>
+    <string name="response">Here is my response</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
 </resources>
