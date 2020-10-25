@@ -14,4 +14,6 @@
     <string name="response">Here is my response</string>
     <string name="on">On</string>
     <string name="off">Off</string>
+    <string name="start_chat_button">Start Chat</string>
+    <string name="send_button">Send</string>
 </resources>

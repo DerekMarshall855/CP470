@@ -15,4 +15,6 @@
     <string name="response">Voici ma réponse</string>
     <string name="on">Sur</string>
     <string name="off">De</string>
+    <string name="start_chat_button">Demarrer la discussion</string>
+    <string name="send_button">bouton d\'envoi</string>
 </resources>
