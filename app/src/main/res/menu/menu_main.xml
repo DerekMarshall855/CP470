@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:icon="@drawable/bubble"
+        android:orderInCategory="101"
+        android:title="@string/title_one"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_two"
+        android:icon="@drawable/lock"
+        android:orderInCategory="101"
+        android:title="@string/title_two"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_three"
+        android:icon="@drawable/puzzle"
+        android:orderInCategory="101"
+        android:title="@string/title_three"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/about"
+        android:title="@string/about_title"
+        app:showAsAction="never"/>
+
+
+</menu>
