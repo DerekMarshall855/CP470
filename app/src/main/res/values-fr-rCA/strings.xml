@@ -29,4 +29,9 @@
     <string name="go_back">Voulez-vous revenir en arrière?</string>
     <string name="default_toast">Valeur par défaut</string>
     <string name="replace_snack">Voulez-vous remplacer le message du snack-bar?</string>
+    <string name="weather_button">Bouton météo</string>
+    <string name="minT">Température minimale</string>
+    <string name="maxT">Température maximale</string>
+    <string name="currT">Température actuelle</string>
+    <string name="weather_string">Météo</string>
 </resources>

@@ -28,4 +28,9 @@
     <string name="go_back">Do you want to go back?</string>
     <string name="default_toast">Default Value</string>
     <string name="replace_snack">Do you want to replace the snackbar message?</string>
+    <string name="weather_button">Weather Button</string>
+    <string name="minT">Minimum Temperature</string>
+    <string name="maxT">Maximum Temperature</string>
+    <string name="currT">Current Temperature</string>
+    <string name="weather_string">Weather</string>
 </resources>
