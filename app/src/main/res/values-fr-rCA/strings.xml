@@ -34,4 +34,7 @@
     <string name="maxT">Température maximale</string>
     <string name="currT">Température actuelle</string>
     <string name="weather_string">Météo</string>
+    <string name="delete">supprimer ce message</string>
+    <string name="message_here">Message ici</string>
+    <string name="id_here">ID=</string>
 </resources>
